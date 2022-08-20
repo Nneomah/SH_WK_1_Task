@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    color: rgb(12, 12, 12);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    max-width: 700px;
+    width: 100%;
+    padding: 25px 30px;
+    border-radius: 25px;
+    background-color: aliceblue;
+
+}
+container .class="container"{
+    justify-self: start;
+    align-self: start;
+
+}
+.container form .card-details{
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+form .card-details .card-box{
+    width: calc(100% / 2 - 20px);
+    margin-bottom: 5px;
+}
+.card-details .card-box .details{
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.card-details .card-box input{
+    height: 25px;
+    width: 100%;
+    outline: none;
+    border: 2px solid #fff;
+    padding-left: 15px;
+    font-size: 16px;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease-in;
+}
+form .submit{
+    max-width: 2000px;
+    width: 100%;
+    margin-top: 5px;
+    border: 25px;
+    padding: 5px;
+    height: 30px;
+    color: rgb(6, 7, 6);
+    background-color: green;
+}
+container .img src{
+    size-adjust: 10%;
+}
+header{
+    grid-area: right;
+    aspect-ratio: ;
+    size-adjust: 0.03%;
+}
+.button .details{
+    background-origin: padding-box;
+    border: 15px
+    padding: 15px;
+    margin: 15px;
+    background-color: green;
+}
+.header .img{
+    size-adjust: 100% / 2;
+
+}
+
+
+ 
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
